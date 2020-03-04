@@ -1,8 +1,8 @@
 package main;
 
 public class Punkt2D {
-	public double x;
-	public double y;
+	private double x;
+	private double y;
 	
 	public Punkt2D() {
 		this.x=0.0;
